@@ -1,0 +1,154 @@
+{
+  "users": [
+    {
+      "username": "abc",
+      "password": "xyz@123"
+    },
+    {
+      "username": "skill",
+      "password": "qode"
+    }
+  ],
+  "products": [
+    {
+      "quantity": 2,
+      "productName": "Apple iPhone",
+      "price": 8900,
+      "brand": "Apple",
+      "img": "https://i.picsum.photos/id/1/100/100.jpg?hmac=ZFE9J9JWYx84uJzvjw4GTuagMzN4FAmaKE4XeJDMZTY",
+      "id": 1
+    },
+    {
+      "quantity": 3,
+      "productName": "Sony Camera",
+      "price": "4500",
+      "brand": "SONY",
+      "img": "https://i.picsum.photos/id/1/100/100.jpg?hmac=ZFE9J9JWYx84uJzvjw4GTuagMzN4FAmaKE4XeJDMZTY",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "productName": "Samsung QLED TV",
+      "price": "7745",
+      "quantity": "0",
+      "img": "https://i.picsum.photos/id/1/100/100.jpg?hmac=ZFE9J9JWYx84uJzvjw4GTuagMzN4FAmaKE4XeJDMZTY",
+      "brand": "Samsung"
+    },
+    {
+      "id": 4,
+      "productName": "iPad Pro",
+      "price": "12400",
+      "quantity": "0",
+      "img": "https://i.picsum.photos/id/1/100/100.jpg?hmac=ZFE9J9JWYx84uJzvjw4GTuagMzN4FAmaKE4XeJDMZTY",
+      "brand": "Apple"
+    },
+    {
+      "quantity": 0,
+      "productName": "Xbox",
+      "price": "7780",
+      "brand": "XBOX",
+      "img": "https://i.picsum.photos/id/1/100/100.jpg?hmac=ZFE9J9JWYx84uJzvjw4GTuagMzN4FAmaKE4XeJDMZTY",
+      "id": 5
+    },
+    {
+      "quantity": 2,
+      "productName": "Dell Monitor",
+      "price": "880",
+      "brand": "DELL",
+      "img": "https://i.picsum.photos/id/1/100/100.jpg?hmac=ZFE9J9JWYx84uJzvjw4GTuagMzN4FAmaKE4XeJDMZTY",
+      "id": 6
+    },
+    {
+      "quantity": 1,
+      "productName": "tv",
+      "price": "12",
+      "brand": "SONY",
+      "img": "https://i.picsum.photos/id/1/100/100.jpg?hmac=ZFE9J9JWYx84uJzvjw4GTuagMzN4FAmaKE4XeJDMZTY",
+      "id": 7
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "quantity": 0,
+      "totalAmount": 0,
+      "productName": "Apple iPhone",
+      "price": 8900,
+      "brand": "Apple"
+    }
+  ],
+  "customer": [
+    {
+      "name": "Chaitali ",
+      "address": {
+        "city": "surat"
+      },
+      "phone": "7894561230",
+      "photo": "https://i.picsum.photos/id/1001/100/100.jpg?hmac=KowrHEW4hgTI2H57luVEdLSSEbOAEv_D82PiZfBCgMI",
+      "id": 1
+    },
+    {
+      "name": "Skill qode",
+      "address": {
+        "city": "Pune"
+      },
+      "phone": "1547896547",
+      "photo": "https://i.picsum.photos/id/1004/100/100.jpg?hmac=RX9oyIQFf13e3UlWF6Rr7Ttmd0L-puBknJ5nGlqbfxM",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "skillcode",
+      "address": {
+        "city": "surat"
+      },
+      "phone": "9876543",
+      "photo": "https://i.picsum.photos/id/1002/100/100.jpg?hmac=SWMw-gfLTC8Br-KfB1ynLibyft0_Lrm5L3ZZcopr_v0"
+    },
+    {
+      "name": "tom and jerry",
+      "address": {
+        "city": "surat"
+      },
+      "phone": "7387287",
+      "photo": "https://i.picsum.photos/id/1001/100/100.jpg?hmac=KowrHEW4hgTI2H57luVEdLSSEbOAEv_D82PiZfBCgMI",
+      "id": 5
+    },
+    {
+      "name": "harry potter",
+      "address": {
+        "city": "mumbai"
+      },
+      "phone": "99090909090",
+      "photo": "https://i.picsum.photos/id/1005/100/100.jpg?hmac=y7B-eAFDTgdmRzqGNyikDoyXN3Qr_yu_EkwApRPzieA",
+      "id": 6
+    },
+    {
+      "name": "john ",
+      "address": {
+        "city": "uk"
+      },
+      "phone": "897656456",
+      "photo": "asas",
+      "id": 7
+    },
+    {
+      "name": "amitabh bacchan",
+      "address": {
+        "city": "mumbai"
+      },
+      "phone": "83837387387",
+      "photo": "amitabhimg",
+      "id": 8
+    },
+    {
+      "name": "newcust",
+      "address": {
+        "city": "newcity"
+      },
+      "phone": "newphone",
+      "photo": "newphoto",
+      "id": 9
+    }
+  ]
+}
